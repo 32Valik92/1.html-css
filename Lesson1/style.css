@@ -1,0 +1,19 @@
+h1 {
+    background: black;
+    color: aliceblue;
+}
+
+h2 {
+    background: aqua;
+    color: blue;
+}
+
+p {
+    background: darkgrey;
+    color: chartreuse;
+}
+
+ul, li {
+    background: black;
+    color: gold;
+}
