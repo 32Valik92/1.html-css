@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.father {
+    width: 100%;
+    height: 100vh;
+    background-color: #F7EF81;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+
+.card {
+    width: 20%;
+    height: 50%;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h3 {
+    margin-top: 70px;
+}
+
+p {
+    width: 50%;
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background: #F7EF81;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #1B7A19;
+}
+
+.fa-envelope, .fa-phone, .fa-music{
+    border: 2px solid black;
+    position: absolute;
+    font-size: 45px;
+    top: 18%;
+    background: #F7EF81;
+    border-radius: 100%;
+    padding: 15px;
+}
