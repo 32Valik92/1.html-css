@@ -1,0 +1,33 @@
+@media screen and (min-width: 0) and (max-width: 768px) {
+    /*-----------------------Part1-----------------------*/
+    .container1-A1, .container1-B1, .container1-C1 {
+        width: 100%;
+    }
+
+    .container1-A1, .container1-C1 {
+        height: 25%;
+    }
+
+    .container1-B1 {
+        height: 50%;
+    }
+
+    /*-----------------------Part2-----------------------*/
+    .container2-A, .container2-F {
+        height: 20%;
+        width: 100%;
+    }
+
+    .container2-B-C-D-E {
+        height: 60%;
+        width: 100%;
+    }
+
+    .container2-B {
+        height: 66%;
+    }
+
+    .container2-C-D-E {
+        height: 34%;
+    }
+}
